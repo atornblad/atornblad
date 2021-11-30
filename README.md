@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Anders.
+- 👀 I've been working in software development since 1997.
+- 🌱 I’m currently learning more about Azure.
+- 📫 You can reach me on Twitter: [@atornblad](https://twitter.com/atornblad).
+- 🧔‍♂️ My pronouns are he/him.
+- 🛠 I build [Conphig](https://nuget.org/packages/Conphig).
